@@ -1,4 +1,4 @@
-# 🤖 ChatGPT Next — AI Chatbot powered by Gemini
+# 🤖 ChatNext — AI Chatbot powered by Gemini
 
 <div align="center">
 
