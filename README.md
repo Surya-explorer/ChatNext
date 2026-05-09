@@ -259,17 +259,6 @@ export async function POST(req: Request) {
 
 ---
 
-# 📸 Screenshots
-
-> Add your screenshots here.
-
-## 💬 Chat Interface
-
-```md
-![Chat UI](./public/screenshot.png)
-```
-
----
 
 # 🚀 Future Improvements
 
@@ -333,15 +322,6 @@ The architecture is scalable and production-ready for modern AI applications.
 
 ---
 
-# 🌍 Live Demo
-
-## 🔗 Vercel Deployment
-
-```txt
-https://your-project-name.vercel.app
-```
-
----
 
 # 👨‍💻 Developer
 
@@ -350,8 +330,7 @@ https://your-project-name.vercel.app
 * 💼 AI Engineer
 * ⚛️ Full Stack Developer
 * 🤖 AI Application Developer
-* 🚀 Next.js Enthusiast
-
+  
 ---
 
 # 📜 License
